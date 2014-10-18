@@ -1,0 +1,9 @@
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\bin\Debug\DatagridTests.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\bin\Debug\DatagridTests.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\bin\Debug\DatagridTests.pdb
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\DatagridTests.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\DatagridTests.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\DatagridTests.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\DatagridTests\DatagridTests\obj\Debug\DatagridTests.pdb
